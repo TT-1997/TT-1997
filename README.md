@@ -1,5 +1,8 @@
 ## Hi there 👋
-
+- 🎮 I was a game designer.
+- 📱 I was a member in game publishing.
+- 🌱 I’m currently learning my Master degree of Management.
+- 💕 I'm always a gamer.
 <!--
 **TT-1997/TT-1997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
